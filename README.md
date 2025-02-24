@@ -15,7 +15,7 @@ I'm passionate about programming and game development.
 
 # Check out my main project!
 
-The project I'm currently working on full-time is **"Aymeri's 100"**. It's an ambitious challenge where I've set out to create 100 video games and release one every month!  
+The project I'm currently working on **"Aymeri's 100"**. It's an ambitious challenge where I've set out to create 100 video games and release one every month!  
 All the games are free, and you can check them out by clicking the banner below:
 
 [![Banner](images/aymeri-100-banner.png)](https://aymeri100.fr)
